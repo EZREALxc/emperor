@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1499052529 source:e:\study\cprogram\emperor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	<string.h>
+
